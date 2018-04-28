@@ -57,6 +57,7 @@ export default {
   methods: {
     changeImage: function(index) {
       this.currentImage = this.images[index - 1];
+      this.imageCount = index;
     },
     nextImage: function() {
       this.$refs.image.classList.add('fadeInRight');
