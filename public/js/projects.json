@@ -27,7 +27,7 @@
   "project2": {
     "img": "../img/projects/tuin_deger_na.jpg",
     "title": "Tuinaanleg JP",
-    "description": "Aanleg rolgazon 80m².",
+    "description": "Aanleg omheining.",
     "classes": ["grid-item--height2", "grid-item-w2", "Tuinaanleg"],
     "images": [
       {
@@ -52,7 +52,7 @@
   "project3": {
     "img": "../img/projects/tuin_blanden_na.jpg",
     "title": "Tuinaanleg JP",
-    "description": "Aanleg rolgazon 80m².",
+    "description": "Aanleg omheining.",
     "classes": ["grid-item--height2", "grid-item-w2", "Tuinaanleg"],
     "images": [
       {
