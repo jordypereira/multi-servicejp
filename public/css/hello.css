@@ -1,0 +1,86 @@
+
+/*--------------------------------------------------------------
+  Resume Header Background
+--------------------------------------------------------------*/
+
+.hello-area-bg{
+  position: relative;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0%;
+  left: 0%;
+  padding: 0px 0px 0px 0px;
+}
+
+.hello-area-bg:before{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, .5);
+  content: "";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+}
+.parallax-window {
+    min-height: 400px;
+}
+.hello-area-bg.parallax-window{
+    min-height: 0px;
+}
+
+.hello-heading-area{
+  color: #fff;
+  position: relative;
+  padding: 140px 0px;
+  z-index: 1;
+}
+.hello-heading-area h1{
+  letter-spacing: 32px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 130px;
+  margin: 0px;
+  text-indent: 32px;
+}
+
+
+.hello-img img{
+  border: 1px solid #74DBEF;
+}
+.hello-heading{
+  font-size: 48px;
+  text-transform: uppercase;
+  color: #222;
+}
+.hello-heading h2{
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+.hello-heading h2:before{
+  position: absolute;
+  content: "";
+  height: 2px;
+  width: 10%;
+  top: 100%;
+  left: 0%;
+  background-color: #74DBEF;
+}
+.hello-txt{
+  color: #333;
+  font-size: 16px;
+}
+.hello-txt h3{
+  font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+}
+.hello-txt span{
+  color: #555;
+  font-weight: 700;
+}
+.hello-txt span p{
+  font-weight: 300;
+}
+

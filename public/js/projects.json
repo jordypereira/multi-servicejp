@@ -1,0 +1,72 @@
+{
+  "project1": {
+    "img": "../img/projects/tuin_jens_na.jpg",
+    "title": "Tuinaanleg JP",
+    "description": "Aanleg rolgazon 80m².",
+    "classes": ["grid-item--height1", "Tuinaanleg"],
+    "images": [
+      {
+        "img": "../img/projects/tuin_jens_voor.jpg",
+        "description": "Jens Tuin aanleg"
+      },
+      {
+        "img": "../img/projects/tuin_jens_tijdens1.jpg",
+        "description":
+          "Plaatsen van afsluiting, boordstenen, poortjes. Planten van bomen, aanleg gazon. Instaleren waterdichte verlichting in de steentjes."
+      },
+      {
+        "img": "../img/projects/tuin_jens_tijdens2.jpg",
+        "description": "Jens Tuin aanleg"
+      },
+      {
+        "img": "../img/projects/tuin_jens_na.jpg",
+        "description": "Jens Tuin aanleg"
+      }
+    ]
+  },
+  "project2": {
+    "img": "../img/projects/tuin_deger_na.jpg",
+    "title": "Tuinaanleg JP",
+    "description": "Aanleg rolgazon 80m².",
+    "classes": ["grid-item--height2", "grid-item-w2", "Tuinaanleg"],
+    "images": [
+      {
+        "img": "../img/projects/tuin_deger_voor.jpg",
+        "description": "Deger Tuin aanleg"
+      },
+      {
+        "img": "../img/projects/tuin_deger_tijdens1.jpg",
+        "description":
+          "Plaatsen van afsluiting, boordstenen, poortjes. Planten van bomen, aanleg gazon. Instaleren waterdichte verlichting in de steentjes."
+      },
+      {
+        "img": "../img/projects/tuin_deger_tijdens2.jpg",
+        "description": "Deger Tuin aanleg"
+      },
+      {
+        "img": "../img/projects/tuin_deger_na.jpg",
+        "description": "Deger Tuin aanleg"
+      }
+    ]
+  },
+  "project3": {
+    "img": "../img/projects/tuin_blanden_na.jpg",
+    "title": "Tuinaanleg JP",
+    "description": "Aanleg rolgazon 80m².",
+    "classes": ["grid-item--height2", "grid-item-w2", "Tuinaanleg"],
+    "images": [
+      {
+        "img": "../img/projects/tuin_blanden_voor.jpg",
+        "description": "Blanden Tuin aanleg"
+      },
+      {
+        "img": "../img/projects/tuin_blanden_tijdens2.jpg",
+        "description": "Blanden Tuin aanleg"
+      },
+      {
+        "img": "../img/projects/tuin_blanden_na.jpg",
+        "description": "Blanden Tuin aanleg"
+      }
+    ]
+  }
+}

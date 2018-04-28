@@ -1,0 +1,355 @@
+@media (min-width: 1200px) {
+}
+
+/*Use if needed*/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .grid-item--height2 {
+    height: 300px;
+  }
+  .grid-item--height1 {
+    height: 300px;
+  }
+  .grid-item--height3 {
+    height: 507px;
+  }
+  .grid-item--height4 {
+    height: 400px;
+  }
+  .grid-item--height5 {
+    height: 193px;
+  }
+  .grid-item--height6 {
+    height: 356px;
+  }
+}
+
+/*      Tablet Layout: 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .main-menu ul {
+    margin-right: 0px;
+  }
+  .header-heading-area h1 {
+    font-size: 3em;
+  }
+  .header-heading-area p {
+    font-size: 1.8em;
+  }
+  .header-btn.resume-btns,
+  .read-more.resume-btns-one {
+    font-size: 14px;
+    padding: 10px 15px;
+  }
+  .heading-section,
+  .center-heading-section,
+  .center-small-heading-section {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .hello-details-section h2 {
+    padding-bottom: 0px;
+    margin-top: 0;
+  }
+  .e-and-e-txt {
+    width: 84%;
+  }
+  .e-and-e-txt h4 {
+    font-size: 14px;
+  }
+  .e-and-e-txt h3,
+  .e-and-e-txt p {
+    font-size: 12px;
+    margin: 6px 0px 0px 0px;
+  }
+  .e-and-e-txt p {
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .single-e-and-e-section {
+    min-height: 120px;
+  }
+  .service-ico {
+    width: 60px;
+    height: 60px;
+  }
+  .service-ico i {
+    font-size: 30px;
+  }
+  .single-service {
+    max-height: 185px;
+  }
+  .grid-item {
+    max-width: 100%;
+  }
+  .mainmenu-area.header__fixed .barger-menu-ico {
+    margin-top: 22px;
+  }
+  .social-list a,
+  .nummer h1 {
+    font-size: 16px;
+  }
+  .grid-item--height2 {
+    height: 250px;
+  }
+  .grid-item--height1 {
+    height: 250px;
+  }
+  .grid-item--height3 {
+    height: 457px;
+  }
+  .grid-item--height4 {
+    height: 350px;
+  }
+  .grid-item--height5 {
+    height: 143px;
+  }
+  .grid-item--height6 {
+    height: 306px;
+  }
+  .grid-item {
+    margin-bottom: 10px;
+    padding: 0 5px;
+  }
+  .blog-heading-area h1 {
+    font-size: 5em;
+  }
+
+  .blog-heading-area h1,
+  .contact-heading-area h1,
+  .hello-heading-area h1,
+  .prtfolio-heading-area h1 {
+    letter-spacing: 25px;
+    font-size: 3.5em;
+  }
+  .blog-heading-area,
+  .contact-heading-area,
+  .hello-heading-area,
+  .prtfolio-heading-area {
+    padding: 100px 0px;
+  }
+}
+
+/*      Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+  .header-btn.resume-btns,
+  .read-more.resume-btns-one {
+    font-size: 14px;
+    padding: 10px 15px;
+  }
+  .header-heading-area h1 {
+    font-size: 3em;
+  }
+  .header-heading-area p {
+    font-size: 2em;
+    line-height: 1.1em;
+  }
+  .single-e-and-e-section {
+    min-height: 130px;
+  }
+  .section-padding {
+    padding-top: 0px;
+  }
+  .service-ico {
+    float: none;
+    margin-right: 0;
+    margin-left: 0;
+    width: 100%;
+    height: 100px;
+  }
+  .service-text {
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  .single-service {
+    padding: 20px;
+    display: inline-block;
+  }
+  .service-ico {
+    float: none;
+    margin-right: 0;
+    margin-left: 0;
+    width: 100%;
+    text-align: center;
+    height: 80px;
+    margin-bottom: 10px;
+  }
+  .service-text h4 {
+    font-size: 20px;
+    line-height: 1.5em;
+  }
+  .service-text p {
+    font-size: 13px;
+    line-height: 1.5em;
+    font-weight: 400;
+  }
+  .grid-item--height2,
+  .grid-item--height1,
+  .grid-item--height3,
+  .grid-item--height4,
+  .grid-item--height5,
+  .grid-item--height6 {
+    max-width: 100%;
+  }
+  .footer-top-txt {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .text-right {
+    text-align: center;
+  }
+  .copyrights-txt p {
+    font-size: 0.8em;
+    text-align: center;
+  }
+  .social-list-footer ul li {
+    font-size: 18px;
+    margin-right: 20px;
+  }
+  ul.menus {
+    position: absolute;
+    width: 300px;
+    right: 0px;
+    visibility: hidden;
+    margin-right: 0;
+    background-color: rgba(51, 51, 51, 0.86);
+  }
+  ul.menus.addedAnimation {
+    top: 75px;
+    opacity: 1;
+    max-width: 200px;
+    visibility: visible;
+  }
+  .main-menu ul li {
+    width: 100%;
+  }
+  .barger-menu-ico {
+    margin-top: 40px;
+  }
+  .main-menu ul li {
+    padding: 10px 20px;
+  }
+  .mainmenu-area.header__fixed .barger-menu-ico {
+    margin-top: 22px;
+  }
+  .mainmenu-area.header__fixed ul.menus.addedAnimation {
+    top: 65px;
+  }
+  .mainmenu-area.header__fixed .main-menu ul li {
+    padding: 10px 20px;
+  }
+  .contact-form {
+    margin-top: 50px;
+  }
+  .blog-heading-area h1,
+  .contact-heading-area h1,
+  .hello-heading-area h1,
+  .prtfolio-heading-area h1 {
+    letter-spacing: 10px;
+    font-size: 2.5em;
+    text-indent: 10px;
+  }
+  .blog-heading-section h2 {
+    font-size: 2em;
+  }
+  .single-blog-ico {
+    width: 30%;
+  }
+  .blog-txt-third-post {
+    width: 70%;
+  }
+  .blog-heading-area,
+  .contact-heading-area,
+  .hello-heading-area,
+  .prtfolio-heading-area {
+    padding: 100px 0px;
+  }
+  .blog-heading-area h3 {
+    font-size: 2.5em;
+  }
+  .post-details ul li {
+    font-size: 1em;
+    margin: 0 5px;
+  }
+  .latest-blog-section.section-padding,
+  .hello-single.section-padding,
+  .hello-heading {
+    padding-top: 50px;
+  }
+
+  .post-txt blockquote {
+    padding: 0px 30px;
+    padding-right: 30px;
+    font-size: 16px;
+  }
+  .post-txt p {
+    font-size: 16px;
+  }
+  .post-txt blockquote:before {
+    font-size: 30px;
+    left: -5px;
+    top: -20px;
+  }
+  .post-txt blockquote:after {
+    font-size: 30px;
+    right: 1%;
+    bottom: -10px;
+  }
+  .contact-heading-section h2 {
+    font-size: 2em;
+    margin-bottom: 25px;
+  }
+  .blog-heading-section,
+  .contact-heading-section {
+    width: 90%;
+    margin: auto;
+  }
+  .portfolio-menu ul li {
+    margin-right: 10px;
+    font-size: 14px;
+  }
+  .grid-item--height2 {
+    height: 300px;
+  }
+  .parallax-window {
+    min-height: auto;
+  }
+}
+
+/*      Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .single-e-and-e-section {
+    min-height: 100px;
+  }
+  .grid-item--height2 {
+    height: 250px;
+  }
+  .grid-item--height1 {
+    height: 250px;
+  }
+  .grid-item--height3 {
+    height: 457px;
+  }
+  .grid-item--height4 {
+    height: 350px;
+  }
+  .grid-item--height5 {
+    height: 143px;
+  }
+  .grid-item--height6 {
+    height: 306px;
+  }
+  .grid-item {
+    margin-bottom: 10px;
+    padding: 0 5px;
+  }
+}
+
+/*      Mobile Layout: 480px. */
+@media only screen and (max-width: 479px) {
+  .e-and-e-txt {
+    width: 85%;
+  }
+}
