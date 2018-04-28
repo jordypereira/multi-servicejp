@@ -33,6 +33,9 @@
                 <a href="#" data-option-value=".Tuinonderhoud">Tuinonderhoud</a>
               </li>
               <li>
+                <a href="#" data-option-value=".Schilderwerken">Schilderwerken</a>
+              </li>
+              <li>
                 <a href="#" data-option-value=".Webdesign">Webdesign</a>
               </li>
             </ul>
@@ -82,7 +85,7 @@ export default {
   },
   created: function() {
     axios.get('js/projects.json').then(response => {
-      console.log(response);
+      // console.log(response);
       this.projects = response.data;
     });
   },

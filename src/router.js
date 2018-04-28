@@ -3,6 +3,7 @@ import Router from "vue-router";
 import Home from "./views/Home.vue";
 import Contact from "./views/Contact.vue";
 import Portfolio from "./views/Portfolio.vue";
+import Bio from "./views/Bio.vue";
 
 Vue.use(Router);
 
@@ -23,6 +24,11 @@ export default new Router({
       path: "/portfolio",
       name: "portfolio",
       component: Portfolio
+    },
+    {
+      path: "/bio",
+      name: "bio",
+      component: Bio
     }
   ]
 });

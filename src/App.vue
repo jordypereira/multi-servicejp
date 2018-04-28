@@ -52,8 +52,9 @@
                 <li>
                   <router-link to="/">Home</router-link>
                 </li>
-                <!-- <li><a href="hello.html">hello</a></li>
-									<li><a href="resume.html">resume</a></li> -->
+                <li>
+                  <router-link to="/bio">Bio</router-link>
+                </li>
                 <li>
                   <router-link to="/portfolio">Portfolio</router-link>
                 </li>
@@ -145,7 +146,10 @@ export default {
 #logo {
   img {
     margin-top: 5px;
-    max-width: 100px;
+    max-width: 75px;
+    @media (min-width: 720px) {
+      max-width: 100px;
+    }
   }
 }
 </style>
