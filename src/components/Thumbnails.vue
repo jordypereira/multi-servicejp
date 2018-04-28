@@ -13,8 +13,8 @@ export default {
     isCurrent(image) {
       return this.current === image ? 'current' : '';
     },
-    setCurrent(image) {
-      this.current = image;
+    setCurrent(imageIndex) {
+      this.current = imageIndex;
     },
   },
 };
