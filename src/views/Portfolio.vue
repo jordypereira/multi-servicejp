@@ -20,8 +20,11 @@
         <div class="row">
           <div class="mj-portfolio-nav portfolio-menu">
             <ul id="filters" class="option-set clearfix" data-option-key="filter">
+              <li>
+                <a @click="changeFilter(null)" :class="{selected: showSelected(null)}" data-option-value="*" style="cursor: pointer">All Works</a>
+              </li>
               <li v-for="filter in filters" :key="filter.category">
-                <a @click="changeFilter(filter.category)" :class="{selected: showSelected(filter.category)}" style="cursor: pointer">{{ filter.name }}</a>
+                <a href="#" @click="changeFilter(filter.category)" :class="{selected: showSelected(filter.category)}" :data-option-value="`.${filter.category}`" style="cursor: pointer">{{ filter.name }}</a>
               </li>
             </ul>
           </div>
@@ -75,28 +78,24 @@ export default {
       filter: null,
       filters: [
         {
-          name: 'All Works',
-          category: null,
-        },
-        {
           name: 'Carwrapping',
-          category: 'carwrapping',
+          category: 'Carwrapping',
         },
         {
           name: 'Tuinaanleg',
-          category: 'tuinaanleg',
+          category: 'Tuinaanleg',
         },
         {
           name: 'Tuinonderhoud',
-          category: 'tuinonderhoud',
+          category: 'Tuinonderhoud',
         },
         {
           name: 'Schilderen',
-          category: 'schilderen',
+          category: 'Schilderen',
         },
         {
           name: 'Webdesign',
-          category: 'webdesign',
+          category: 'Webdesign',
         },
       ],
     };
@@ -108,7 +107,7 @@ export default {
     });
   },
   computed: {
-    filteredProjects: function() {
+    filteredProjects() {
       if (!this.filter) {
         return this.projects;
       }
