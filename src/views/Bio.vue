@@ -26,22 +26,22 @@
             </div>
             <div class="hello-txt">
               <h3>Mijn naam is Jonathan Put, 25 jaar.</h3>
-              <p>Vanwege mijn grote interesse voor automotief software architectuur koos ik voor de richting 'autotechnologie'. Momenteel zit ik in mijn laatste jaar. Dankzij mijn voorgaande opleiding 'multimedia en communicatie-technologie' ben ik erg geïnteresseerd geraakt in het programma en het ontwerpen van websites. Dankzij deze combinatie van deze twee heb ik er voor gekozen om mijn master eindwerk te baseren op een idee waar ik al heel lang op broed. </p>
+              <p>Ik heb een grote interesse voor automotive software architectuur. Het was dan ook niet meer dan logisch dat ik de richting 'Professionele bachelor Autotechnologie' ging studeren. Op mijn eindwerk na heb ik deze met succes afgerond. Dankzij mijn voorgaande opleiding, 'Multimedia en Communicatie-Technologie', heb ik ook een grote interesse gekregen in het programmeren en ontwerpen van websites. Door deze twee passies heb ik dan ook besloten niet een gewone stage te lopen als eindwerk. Echter heb ik een project bedacht dat gebaseerd is op een idee waar ik al heel lang op broed.</p>
 
               <p>
-                Buiten mijn studies heb ik me altijd bezig gehouden met het ontwikkelen van andere vaardigheden. Onder mijn moeder haar motto 'Als je iets wilt kopen moet je er maar voor sparen en werken' leerde ik vrij vroeg efficiënte werkmethodes te ontwikkelen en te ondernemen. </p>
+                Mijn moeder haar motto luidde altijd 'Als je iets wilt kopen moet je er maar voor sparen en werken'. Hierdoor heb ik me altijd bezig gehouden met het ontwikkelen van andere vaardigheden buiten mijn studies. Dit leerde me reeds op jonge leeftijd efficiënte werkmethodes te ontwikkelen en te ondernemen.</p>
 
               <p>
-                Na een aantal zomers te werken als jobstudent bij een tuinbouwbedrijf besloot ik om mijn eigen onderneming te starten. Ik kreeg de goesting te pakken om zelf aan de slag te gaan met mijn kennis en ervaring die ik had opgedaan. </p>
+                Na een aantal zomers als jobstudent bij een tuinbouwbedrijf te werken kreeg ik de drang om zelf aan de slag te gaan. Gewapend met de kennis en ervaring die ik had opgedaan besloot ik dan ook een eigen onderneming te starten.</p>
 
               <p>
-                Leergierig en nieuwsgierigheid zijn twee termen die mij op het lijf geschreven staan. Zo ben ik onlangs een opleiding '3M carwrapping' gestart. Ik wilde mijn auto vanwege een speciaal idee zelf onder handen nemen. Dankzij deze opleiding slaagde ik erin om mijn idee om te zetten in realiteit. Dit leerde me dat ik klaar ben voor elke soort uitdaging. </p>
+                Leergierig en nieuwsgierigheid zijn twee termen die mij op het lijf geschreven staan. Hierdoor ben ik onlangs een opleiding '3M carwrapping' gestart. Ik had het idee mijn eigen auto een facelift te geven en had mijn persoonlijke projectje hiervoor ontworpen. Dankzij deze opleiding slaagde ik erin om mijn ontwerp om te zetten in realiteit. Dit leerde me dat ik klaar ben voor elke soort uitdaging.</p>
 
-              <p>Leergierig en nieuwsgierigheid zijn twee termen die mij op het lijf geschreven staan. Zo ben ik onlangs een opleiding '3M carwrapping' gestart. Ik wilde mijn auto vanwege een speciaal idee zelf onder handen nemen. Dankzij deze opleiding slaagde ik erin om mijn idee om te zetten in realiteit. Dit leerde me dat ik klaar ben voor elke soort uitdaging. </p>
+              <p>Vanuit deze gedachte koos ik er voor om een cursus schilderen te volgen. Hier wilde ik mijn reeds verworven vaardigheden mee aanscherpen: een efficiënte werkmethode hanteren, nog betere technieken aanleren en mijn oog voor perfectie nog verder ontwikkelen. Dat mijn leergierigheid weer een tikkeltje meer gevoed was, dat was goed meegenomen.</p>
 
-              <p>Om af te sluiten zou ik jullie graag nog willen vertellen dat ik graag omga met mensen en je mij dus steeds mag contacteren om je project of idee samen met mij te bespreken. </p>
+              <p>Om af te sluiten wil ik nog graag vertellen dat ik altijd met een lach en plezier met mensen omga. U mag me dus zeker contacteren om samen u project of idee te bespreken.</p>
 
-              <p>Indien je meer informatie wenst te krijgen over bepaalde zaken mag je mij gerust contacteren via onderstaand formulier.</p>
+              <p>Indien u meer informatie wenst te krijgen over bepaalde zaken mag u mij gerust contacteren via onderstaand formulier.</p>
 
               <p>Tot binnenkort !</p>
             </div>

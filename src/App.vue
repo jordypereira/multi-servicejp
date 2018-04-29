@@ -33,11 +33,11 @@
               </div>
               <div class="col-lg-4">
                 <!-- Logo -->
-                <div class="nummer">
+                <div class="nummer" style="padding-top: 10px">
                   <h1>0498/72.85.76</h1>
                 </div>
               </div>
-              <div class="col-lg-5 social-list">
+              <div class="col-lg-5 social-list" style="padding-top: 10px">
                 <a href="https://www.facebook.com/multiservicejp/" target="_blank" v-if="$mq === 'lg'">
                   Volg ons op:
                   <i class="fab fa-facebook-f"></i>acebook</a>
@@ -91,7 +91,7 @@
             </div>
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="footer-top-btn text-right">
-                <a href="#contactSection">Contact me</a>
+                <router-link to="/contact">Contact me</router-link>
               </div>
             </div>
           </div>
@@ -135,7 +135,7 @@ export default {
   },
   methods: {
     toggleNav() {
-      this.navActive = !this.navActive;
+      if (this.$mq !== 'lg') this.navActive = !this.navActive;
     },
   },
 };

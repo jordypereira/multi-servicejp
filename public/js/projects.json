@@ -1,9 +1,10 @@
-{
-  "project1": {
+[
+  {
     "img": "../img/projects/tuin_jens_na.jpg",
     "title": "Tuinaanleg JP",
     "description": "Aanleg rolgazon 80m².",
-    "classes": ["grid-item--height1", "Tuinaanleg"],
+    "category": "tuinaanleg",
+    "classes": ["grid-item--height1"],
     "images": [
       {
         "img": "../img/projects/tuin_jens_voor.jpg",
@@ -24,11 +25,12 @@
       }
     ]
   },
-  "project2": {
+  {
     "img": "../img/projects/tuin_deger_na.jpg",
     "title": "Tuinaanleg JP",
     "description": "Aanleg omheining.",
-    "classes": ["grid-item--height2", "grid-item-w2", "Tuinaanleg"],
+    "category": "tuinaanleg",
+    "classes": ["grid-item--height2", "grid-item-w2"],
     "images": [
       {
         "img": "../img/projects/tuin_deger_voor.jpg",
@@ -49,11 +51,12 @@
       }
     ]
   },
-  "project3": {
+  {
     "img": "../img/projects/tuin_blanden_na.jpg",
     "title": "Tuinaanleg JP",
     "description": "Aanleg omheining.",
-    "classes": ["grid-item--height2", "grid-item-w2", "Tuinaanleg"],
+    "category": "tuinaanleg",
+    "classes": ["grid-item--height2", "grid-item-w2"],
     "images": [
       {
         "img": "../img/projects/tuin_blanden_voor.jpg",
@@ -69,4 +72,4 @@
       }
     ]
   }
-}
+]

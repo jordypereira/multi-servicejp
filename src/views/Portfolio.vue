@@ -20,29 +20,14 @@
         <div class="row">
           <div class="mj-portfolio-nav portfolio-menu">
             <ul id="filters" class="option-set clearfix" data-option-key="filter">
-              <li>
-                <a href="#" data-option-value="*">All Works</a>
-              </li>
-              <li>
-                <a href="#" data-option-value=".Carwrapping">Carwrapping</a>
-              </li>
-              <li>
-                <a href="#" data-option-value=".Tuinaanleg">Tuinaanleg</a>
-              </li>
-              <li>
-                <a href="#" data-option-value=".Tuinonderhoud">Tuinonderhoud</a>
-              </li>
-              <li>
-                <a href="#" data-option-value=".Schilderwerken">Schilderwerken</a>
-              </li>
-              <li>
-                <a href="#" data-option-value=".Webdesign">Webdesign</a>
+              <li v-for="filter in filters" :key="filter.category">
+                <a @click="changeFilter(filter.category)" :class="{selected: showSelected(filter.category)}" style="cursor: pointer">{{ filter.name }}</a>
               </li>
             </ul>
           </div>
 
           <div id="mj-portfolio-grid" class="grid ">
-            <project v-for="(project, i) in projects" :key="i" :project="project" v-on:showSlideshow="showSlideshow" />
+            <project v-for="(project, i) in filteredProjects" :key="i" :project="project" v-on:showSlideshow="showSlideshow" />
             <slideshow v-if="slideshow" :images="images" v-on:hideSlideshow="hideSlideshow" />
           </div>
           <!-- <div class="port-load-more-btn text-center">
@@ -67,6 +52,9 @@ export default {
     Slideshow,
   },
   methods: {
+    changeFilter(tag) {
+      this.filter = tag;
+    },
     showSlideshow(images) {
       this.images = images;
       this.slideshow = true;
@@ -75,12 +63,42 @@ export default {
       this.slideshow = false;
       this.images = [];
     },
+    showSelected(category) {
+      return this.filter === category;
+    },
   },
   data() {
     return {
       slideshow: false,
       images: [],
       projects: [],
+      filter: null,
+      filters: [
+        {
+          name: 'All Works',
+          category: null,
+        },
+        {
+          name: 'Carwrapping',
+          category: 'carwrapping',
+        },
+        {
+          name: 'Tuinaanleg',
+          category: 'tuinaanleg',
+        },
+        {
+          name: 'Tuinonderhoud',
+          category: 'tuinonderhoud',
+        },
+        {
+          name: 'Schilderen',
+          category: 'schilderen',
+        },
+        {
+          name: 'Webdesign',
+          category: 'webdesign',
+        },
+      ],
     };
   },
   created: function() {
@@ -88,6 +106,14 @@ export default {
       // console.log(response);
       this.projects = response.data;
     });
+  },
+  computed: {
+    filteredProjects: function() {
+      if (!this.filter) {
+        return this.projects;
+      }
+      return this.projects.filter(project => project.category == this.filter);
+    },
   },
 };
 </script>

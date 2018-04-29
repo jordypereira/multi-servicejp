@@ -143,7 +143,7 @@
                 </div>
                 <div class="service-text" onclick="location.href='portfolio.html#portfolioSection';">
                   <h4>Schilderen</h4>
-                  <p>Wij plaatsen afsluiting met de hoogste precisie zodat u jaren lang kan genieten van een perfect geplaatste omheining op maat van uw tuin. Afgewerkt met rolgazon/bomen/hagen/...</p>
+                  <p>Wij geven uw buiten hekwerk/poort of tuinhuis een grondige oplap beurt. Maar heeft u binnen in een project kunnen we dit zeker realiseren.</p>
                 </div>
               </div>
             </div>
