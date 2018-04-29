@@ -36,7 +36,7 @@
             </div>
             <div class="hello-details-section">
               <h2>I’m Jonathan Put</h2>
-              <p>Ik ben een student aan Karel de Grote Hogeschool en volg daar de opleiding "Autotechnologie". Buiten mijn studies ben ik heel gedreven in het uitvoeren van projecten met de hoogste precisie:
+              <p>Oprichter en eigenaar van Multi-Service JP. In 2016 startte ik mijn activiteiten op zelfstandige basis tijdens mijn studies. Na een vlot gesprek verzorgen wij al uw project met de hoogste precisie. Efficiënt, creatief en nauwkeurigheid staan bij ons centraal. Met mijn gemotiveerd team gaan wel elke uitdaging aan:
                 <ul>
                   <li>
                     <p>Tuinwerken :
@@ -45,18 +45,20 @@
                   </li>
                   <li>
                     <p>Carwrapping :
-                      <span>Na de opleiding bij 3M Carwrapping kan ik uw auto weer laten schitteren in een nieuw jasje.</span>
+                      <span>Na de opleiding bij 3M Carwrapping, mijn hoog gehalte aan geduld en mijn nauwkeurigheid kan ik uw auto weer laten schitteren in een nieuw jasje.</span>
                     </p>
                   </li>
                   <li>
                     <p>Webdesign :
-                      <span>Door mijn voorgaande opleiding aan KDG slaag ik er in om een moderne dynamische website te ontwerpen.</span>
+                      <span>Door mijn voorgaande opleiding en collega’s aan KDG slagen wij er in om een moderne dynamische website op maat te ontwerpen.</span>
                     </p>
                   </li>
                 </ul>
               </p>
             </div>
-            <!-- <a href="hello.html" class="read-more resume-btns-one">Read More <i class="fa fa-angle-double-right"></i></a> -->
+            <router-link to="/bio" class="read-more resume-btns-one">Read More
+              <i class="fa fa-angle-double-right"></i>
+            </router-link>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="heading-section">

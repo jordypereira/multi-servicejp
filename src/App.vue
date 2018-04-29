@@ -48,7 +48,7 @@
           <div class="col-xs-2 col-sm-5 col-md-6 col-lg-4">
             <!-- Menu -->
             <nav class="main-menu" id="mainmenu">
-              <ul class="menus" :class="{'addedAnimation': navActive}">
+              <ul class="menus" :class="{'addedAnimation': navActive}" @click="toggleNav()">
                 <li>
                   <router-link to="/">Home</router-link>
                 </li>
