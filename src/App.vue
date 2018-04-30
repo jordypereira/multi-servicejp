@@ -91,7 +91,7 @@
             </div>
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="footer-top-btn text-right">
-                <router-link to="/contact">Contact me</router-link>
+                <router-link to="/contact#contactSection">Contact me</router-link>
               </div>
             </div>
           </div>

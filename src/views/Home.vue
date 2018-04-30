@@ -117,7 +117,7 @@
                 <div class="service-ico">
                   <i class="fa fa-arrows-alt"></i>
                 </div>
-                <div class="service-text" onclick="location.href='portfolio.html#portfolioSection';">
+                <div class="service-text" onclick="location.href='/portfolio#portfolioSection';">
                   <h4>Tuinonderhoud / Tuinaanleg</h4>
                   <p>Maak uw buren jaloers door een mooi strak geschoren haag en tot het laatste bladje opgekuisd! Wij plaatsen afsluitingen met de hoogste precisie. Afgewerkt met rolgazon/bomen/hagen/...</p>
                 </div>
@@ -128,7 +128,7 @@
                 <div class="service-ico">
                   <i class="fa fa-car"></i>
                 </div>
-                <div class="service-text" onclick="location.href='portfolio.html#portfolioSection';">
+                <div class="service-text" onclick="location.href='portfolio#portfolioSection';">
                   <h4>Carwrapping</h4>
                   <p>Nieuwe kleurtje nodig voor uw wagen dat er na een paar jaar terug af kan? Wij maken ontwerp op maat of volledige wrap. Prijzen kan u aanvragen via contactformulier.</p>
                 </div>
@@ -141,7 +141,7 @@
                 <div class="service-ico">
                   <i class="fa fa-paint-brush"></i>
                 </div>
-                <div class="service-text" onclick="location.href='portfolio.html#portfolioSection';">
+                <div class="service-text" onclick="location.href='portfolio#portfolioSection';">
                   <h4>Schilderen</h4>
                   <p>Wij geven uw buiten hekwerk/poort of tuinhuis een grondige oplap beurt. Maar heeft u binnen in een project kunnen we dit zeker realiseren.</p>
                 </div>
@@ -152,7 +152,7 @@
                 <div class="service-ico">
                   <i class="fa fa-code"></i>
                 </div>
-                <div class="service-text" onclick="location.href='portfolio.html#portfolioSection';">
+                <div class="service-text" onclick="location.href='portfolio#portfolioSection';">
                   <h4>Webdesign</h4>
                   <p>Dynamische en moderne websites / Login systemen voor uw website. Webshops / contactformulieren / mobile view krijgt u allemaal van onze vakmannen.</p>
                 </div>
@@ -177,7 +177,7 @@
               </div>
               <div class="col-md-4 col-sm-4 col-xs-12">
                 <div class="footer-top-btn text-right">
-                  <a href="#contactSection">Contact me</a>
+                  <router-link to="#contactSection">Contact me</router-link>
                 </div>
               </div>
             </div>
