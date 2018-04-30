@@ -14,7 +14,7 @@
       </div>
       <div class="lb-outerContainer">
         <div class="lb-container">
-          <img class="lb-image" :src="currentImage.img" ref="image" />
+          <img class="lb-image" :src="`../img/projects/${this.imagefolder}/${currentImage.img}`" ref="image" />
           <div class="lb-nav">
             <a class="lb-prev" @click="previousImage()" :style="{ backgroundImage: `url('${prevIcon}')` }"></a>
             <a class="lb-next" @click="nextImage()" :style="{ backgroundImage: `url('${nextIcon}')` }"></a>
@@ -25,7 +25,7 @@
         </div>
       </div>
     </div>
-    <thumbnails :images="this.images" :current="this.currentImage" v-on:setCurrent="changeImage" />
+    <thumbnails :images="this.images" :imagefolder="this.imagefolder" :current="this.currentImage" v-on:setCurrent="changeImage" />
   </div>
 </template>
 
@@ -37,7 +37,7 @@ import prevIcon from '../assets/lightbox/prev.png';
 import Thumbnails from '../components/Thumbnails';
 
 export default {
-  props: ['images'],
+  props: ['images', 'imagefolder'],
   components: {
     Thumbnails,
   },

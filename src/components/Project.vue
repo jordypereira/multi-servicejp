@@ -1,7 +1,7 @@
 <template>
-  <div class="grid-item port-img-overlay" @click="$emit('showSlideshow', project.images)" :class="[project.classes,project.category]">
+  <div class="grid-item port-img-overlay" @click="$emit('showSlideshow', project.images, project.imagefolder)" :class="[project.classes,project.category]">
     <a>
-      <img :src="project.img" alt="Portfolio Image" />
+      <img :src="`../img/projects/${project.imagefolder}/${project.img}`" alt="Portfolio Image" />
       <div class="img-hover-txt">
         <p>{{ project.title }}
           <span> {{ project.description }}</span>

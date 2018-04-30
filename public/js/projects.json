@@ -1,148 +1,801 @@
-[
-  {
-    "img": "../img/projects/tuin_jens_na.jpg",
-    "title": "Tuinaanleg JP",
-    "description": "Aanleg rolgazon 80m².",
-    "category": "Tuinaanleg",
-    "classes": ["grid-item--height1"],
-    "images": [
-      {
-        "img": "../img/projects/tuin_jens_voor.jpg",
-        "description": "Jens Tuin aanleg"
-      },
-      {
-        "img": "../img/projects/tuin_jens_tijdens1.jpg",
-        "description":
-          "Plaatsen van afsluiting, boordstenen, poortjes. Planten van bomen, aanleg gazon. Instaleren waterdichte verlichting in de steentjes."
-      },
-      {
-        "img": "../img/projects/tuin_jens_tijdens2.jpg",
-        "description": "Jens Tuin aanleg"
-      },
-      {
-        "img": "../img/projects/tuin_jens_na.jpg",
-        "description": "Jens Tuin aanleg"
-      }
-    ]
-  },
-  {
-    "img": "../img/projects/tuin_deger_na.jpg",
-    "title": "Tuinaanleg JP",
-    "description": "Aanleg omheining.",
-    "category": "Tuinaanleg",
-    "classes": ["grid-item--height2", "grid-item-w2"],
-    "images": [
-      {
-        "img": "../img/projects/tuin_deger_voor.jpg",
-        "description": "Deger Tuin aanleg"
-      },
-      {
-        "img": "../img/projects/tuin_deger_tijdens1.jpg",
-        "description":
-          "Plaatsen van afsluiting, boordstenen, poortjes. Planten van bomen, aanleg gazon. Instaleren waterdichte verlichting in de steentjes."
-      },
-      {
-        "img": "../img/projects/tuin_deger_tijdens2.jpg",
-        "description": "Deger Tuin aanleg"
-      },
-      {
-        "img": "../img/projects/tuin_deger_na.jpg",
-        "description": "Deger Tuin aanleg"
-      }
-    ]
-  },
-  {
-    "img": "../img/projects/tuin_blanden_na.jpg",
-    "title": "Tuinaanleg JP",
-    "description": "Aanleg omheining.",
-    "category": "Tuinaanleg",
-    "classes": ["grid-item--height2", "grid-item-w2"],
-    "images": [
-      {
-        "img": "../img/projects/tuin_blanden_voor.jpg",
-        "description": "Blanden Tuin aanleg"
-      },
-      {
-        "img": "../img/projects/tuin_blanden_tijdens2.jpg",
-        "description": "Blanden Tuin aanleg"
-      },
-      {
-        "img": "../img/projects/tuin_blanden_na.jpg",
-        "description": "Blanden Tuin aanleg"
-      }
-    ]
-  },
-  {
-    "img": "../img/projects/tuin_jens_na.jpg",
-    "title": "Tuinaanleg JP",
-    "description": "Aanleg rolgazon 80m².",
+[{
+    "img": "dimi_carw-21.jpg",
+    "title": "Carwrapping Nissan",
+    "description": "Carwrapping in het zwart.",
     "category": "Carwrapping",
     "classes": ["grid-item--height1"],
-    "images": [
-      {
-        "img": "../img/projects/tuin_jens_voor.jpg",
-        "description": "Jens Tuin aanleg"
+    "imagefolder": "Dimi-Carwrapping",
+    "images": [{
+        "img": "dimi_carw-1.jpg",
+        "description": ""
       },
       {
-        "img": "../img/projects/tuin_jens_tijdens1.jpg",
-        "description":
-          "Plaatsen van afsluiting, boordstenen, poortjes. Planten van bomen, aanleg gazon. Instaleren waterdichte verlichting in de steentjes."
+        "img": "dimi_carw-2.jpg",
+        "description": ""
       },
       {
-        "img": "../img/projects/tuin_jens_tijdens2.jpg",
-        "description": "Jens Tuin aanleg"
+        "img": "dimi_carw-3.jpg",
+        "description": ""
       },
       {
-        "img": "../img/projects/tuin_jens_na.jpg",
-        "description": "Jens Tuin aanleg"
+        "img": "dimi_carw-4.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-5.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-6.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-7.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-8.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-9.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-10.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-11.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-12.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-13.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-14.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-15.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-16.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-17.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-18.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-19.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-20.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-21.jpg",
+        "description": ""
+      },
+      {
+        "img": "dimi_carw-22.jpg",
+        "description": ""
       }
     ]
   },
   {
-    "img": "../img/projects/tuin_deger_na.jpg",
-    "title": "Tuinaanleg JP",
-    "description": "Aanleg omheining.",
-    "category": "Carwrapping",
-    "classes": ["grid-item--height2", "grid-item-w2"],
-    "images": [
-      {
-        "img": "../img/projects/tuin_deger_voor.jpg",
-        "description": "Deger Tuin aanleg"
+    "img": "IMG_1390.jpg",
+    "title": "Tuinonderhoud grafstenen kuisen en opblinken",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height2",
+      "grid-item-w2"
+    ],
+    "imagefolder": "tuinonderhoud-grafstenen-kuisen-en-opblinken",
+    "images": [{
+        "img": "IMG_1390.jpg",
+        "description": ""
       },
       {
-        "img": "../img/projects/tuin_deger_tijdens1.jpg",
-        "description":
-          "Plaatsen van afsluiting, boordstenen, poortjes. Planten van bomen, aanleg gazon. Instaleren waterdichte verlichting in de steentjes."
+        "img": "IMG_1393.jpg",
+        "description": ""
       },
       {
-        "img": "../img/projects/tuin_deger_tijdens2.jpg",
-        "description": "Deger Tuin aanleg"
+        "img": "IMG_1394.jpg",
+        "description": ""
       },
       {
-        "img": "../img/projects/tuin_deger_na.jpg",
-        "description": "Deger Tuin aanleg"
+        "img": "IMG_1398.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1400.jpg",
+        "description": ""
       }
     ]
   },
   {
-    "img": "../img/projects/tuin_blanden_na.jpg",
-    "title": "Tuinaanleg JP",
-    "description": "Aanleg omheining.",
+    "img": "carwrapping_marioKart_br.jpg",
+    "title": "Carwrapping Mario Kart",
+    "description": "Carwrapping in Mario kleuren.",
     "category": "Carwrapping",
-    "classes": ["grid-item--height2", "grid-item-w2"],
-    "images": [
-      {
-        "img": "../img/projects/tuin_blanden_voor.jpg",
-        "description": "Blanden Tuin aanleg"
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "Mario-Kart",
+    "images": [{
+        "img": "carwrapping_marioKart_br.jpg",
+        "description": ""
       },
       {
-        "img": "../img/projects/tuin_blanden_tijdens2.jpg",
-        "description": "Blanden Tuin aanleg"
+        "img": "carwrapping_marioKart_oprit.jpg",
+        "description": ""
       },
       {
-        "img": "../img/projects/tuin_blanden_na.jpg",
-        "description": "Blanden Tuin aanleg"
+        "img": "home_achtergrond.jpg",
+        "description": ""
+      },
+      {
+        "img": "home_achtergrond2_lichter2.jpg",
+        "description": ""
+      },
+      {
+        "img": "home_counter.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0969.jpeg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0970.jpeg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0981.jpeg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1081.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1085.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1210.jpeg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1214.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1217.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1234.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1237.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1238.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1240.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1255.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1256.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1265.jpg",
+        "description": ""
+      },
+      {
+        "img": "portfolio_achtergrond2_lichter.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_2068.jpg",
+    "title": "Schilderwerken Kontich",
+    "description": "Schilderwerken Kontich",
+    "category": "Schilderen",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "schilderwerken-kontich",
+    "images": [{
+        "img": "IMG_2068.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2069.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2071.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2072.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2073.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2074.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_0893.jpg",
+    "title": "Schilderwerken Lier",
+    "description": "Schilderwerken Lier",
+    "category": "Schilderen",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "schilderwerken-lier",
+    "images": [{
+        "img": "8C42657D-B0A0-499A-B46F-CEE2FC9E7120.jpg",
+        "description": ""
+      },
+      {
+        "img": "BE2DFD55-3BDC-4CE6-AFFC-994685D282A3.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0893.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0897.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0900.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0901.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0904.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0906.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0907.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_0908.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1438.jpg",
+    "title": "Schilderwerken Lint",
+    "description": "Schilderwerken Lint",
+    "category": "Schilderen",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "schilderwerken-lint",
+    "images": [{
+        "img": "IMG_1376.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1377.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1379.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1438.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1190.jpg",
+    "title": "Tuinaanleg 65 Rode Beuk",
+    "description": "Tuinaanleg 65 Rode Beuk",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height2",
+      "grid-item-w2"
+    ],
+    "imagefolder": "tuinaaleg-65m-rode-beuk",
+    "images": [{
+        "img": "IMG_1092.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1132.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1142.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1143.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1144.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1146.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1185.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1186.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1188.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1189.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1190.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_2304.jpg",
+    "title": "Tuinaanleg aanplanting beuk na 1jaar",
+    "description": "",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height2",
+      "grid-item-w2"
+    ],
+    "imagefolder": "tuinaanleg - aanplanting beuk na 1jaar",
+    "images": [{
+        "img": "IMG_2300.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2304.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2306.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1428.jpg",
+    "title": "Tuinaanleg 250m² rolgazon",
+    "description": "",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinaanleg-250m²-rolgazon",
+    "images": [{
+        "img": "IMG_1407.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1409.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1411.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1413.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1415.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1417.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1419.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1421.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1424.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1426.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1428.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1430.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1432.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "pos1_na (2).JPG",
+    "title": "Tuinaanleg Afsluiting",
+    "description": "",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "tuinaanleg-afsluiting-2-blanden",
+    "images": [{
+        "img": "pos1_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos1_tijdens (2).JPG",
+        "description": ""
+      },
+      {
+        "img": "pos1_tijdens (3).JPG",
+        "description": ""
+      },
+      {
+        "img": "pos1_na (2).JPG",
+        "description": ""
+      },
+      {
+        "img": "pos2_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos2_na.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos3_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos3_na.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos4_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos4_na.JPG",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "tuin_na (2).JPG",
+    "title": "Tuinaanleg Afsluiting",
+    "description": "",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinaanleg-afsluiting-blanden",
+    "images": [{
+        "img": "pos1_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos1_na.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos2_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos2_na (3).JPG",
+        "description": ""
+      },
+      {
+        "img": "pos3_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos3_na.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos4_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos4_na.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos4_na2.JPG",
+        "description": ""
+      },
+      {
+        "img": "tuin_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "tuin_na (2).JPG",
+        "description": ""
+      },
+      {
+        "img": "tuin_na (3).JPG",
+        "description": ""
+      },
+      {
+        "img": "tuin_na (4).JPG",
+        "description": ""
+      },
+      {
+        "img": "tuin_na (6).JPG",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "pos1_na.JPG",
+    "title": "Tuinaanleg Gazon Keerbergen",
+    "description": "",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinaanleg-gazon-keerbergen",
+    "images": [{
+        "img": "pos1_voor.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos1_tijdens.JPG",
+        "description": ""
+      },
+      {
+        "img": "pos1_tijdens (2).JPG",
+        "description": ""
+      },
+      {
+        "img": "pos1_na.JPG",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1365.jpg",
+    "title": "Tuinonderhoud bomen snoeien met een hoogtewerker",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "tuinonderhoud-bomen-snoeien-met-hoogtewerker",
+    "images": [{
+        "img": "IMG_1135.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1330.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1332.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1340.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1343.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1356.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1358.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1362.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1365.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1972.jpg",
+    "title": "Tuinonderhoud",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinonderhoud-boom",
+    "images": [{
+        "img": "IMG_1969.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1972.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1973.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1224.jpg",
+    "title": "Tuinonderhoud",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "tuinonderhoud-duffel",
+    "images": [{
+        "img": "IMG_1222.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1223.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1224.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "20160625_194612.jpg",
+    "title": "Tuinonderhoud",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinonderhoud-lier",
+    "images": [{
+        "img": "20160625_194602.jpg",
+        "description": ""
+      },
+      {
+        "img": "20160625_194612.jpg",
+        "description": ""
+      },
+      {
+        "img": "20160625_194626.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1023.jpg",
+    "title": "Tuinonderhoud",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinonderhoud-reet",
+    "images": [{
+        "img": "home_myService.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1017.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1018.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1022.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1023.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1384.jpg",
+    "title": "Tuinonderhoud",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinonderhoud-temse",
+    "images": [{
+        "img": "IMG_1382.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1383.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1384.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1386.jpg",
+        "description": ""
       }
     ]
   }
+
 ]

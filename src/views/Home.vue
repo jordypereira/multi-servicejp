@@ -36,21 +36,21 @@
             </div>
             <div class="hello-details-section">
               <h2>I’m Jonathan Put</h2>
-              <p>Oprichter en eigenaar van Multi-Service JP. In 2016 startte ik mijn activiteiten op zelfstandige basis tijdens mijn studies. Na een vlot gesprek verzorgen wij al uw project met de hoogste precisie. Efficiënt, creatief en nauwkeurigheid staan bij ons centraal. Met mijn gemotiveerd team gaan wel elke uitdaging aan:
+              <p>Oprichter en eigenaar van Multi-Service JP. In 2016 startte ik mijn activiteiten op zelfstandige basis tijdens mijn studies. Na een vlot gesprek verzorgen wij al uw projecten met de hoogste precisie. Efficiëntie, creativiteit en nauwkeurigheid staan bij ons centraal. Met mijn gemotiveerd team gaan we elke uitdaging aan:
                 <ul>
                   <li>
                     <p>Tuinwerken :
-                      <span>Door 5jaar ervaring in hagen scheren kan ik uw tuin perfect onderhouden / het plaatsen van een afsluiting / aanleg van uw gazon of een nieuwe haag.</span>
+                      <span>Door 5 jaar ervaring in hagen scheren kan ik uw tuin perfect onderhouden / plaatsen van een afsluiting / aanleg van uw gazon of planten van een nieuwe haag…</span>
                     </p>
                   </li>
                   <li>
                     <p>Carwrapping :
-                      <span>Na de opleiding bij 3M Carwrapping, mijn hoog gehalte aan geduld en mijn nauwkeurigheid kan ik uw auto weer laten schitteren in een nieuw jasje.</span>
+                      <span>Door de opleiding bij 3M Carwrapping, mijn hoog gehalte aan geduld en mijn nauwkeurigheid kan ik uw auto weer laten schitteren in een nieuw jasje.</span>
                     </p>
                   </li>
                   <li>
                     <p>Webdesign :
-                      <span>Door mijn voorgaande opleiding en collega’s aan KDG slagen wij er in om een moderne dynamische website op maat te ontwerpen.</span>
+                      <span>Door mijn voorgaande opleiding en collega’s aan KDG slagen wij erin om een moderne dynamische website op maat te ontwerpen.</span>
                     </p>
                   </li>
                 </ul>

@@ -1,14 +1,14 @@
 <template>
   <div class="t-container">
     <div class="s-thumbnails">
-      <div class="s-thumbnail" v-for="(image, i) in images" :key="i" :style="{ backgroundImage: `url('${image.img}')`}" :class="isCurrent(image)" @click="$emit('setCurrent',i+1)"></div>
+      <div class="s-thumbnail" v-for="(image, i) in images" :key="i" :style="{ backgroundImage: `url('../img/projects/${imagefolder}/${image.img}')`}" :class="isCurrent(image)" @click="$emit('setCurrent',i+1)"></div>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  props: ['images', 'current'],
+  props: ['images', 'current', 'imagefolder'],
   methods: {
     isCurrent(image) {
       return this.current === image ? 'current' : '';
