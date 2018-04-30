@@ -17,9 +17,9 @@
 
             <!-- Scroll down Arrow -->
             <div>
-              <a class="ct-btn-scroll ct-js-btn-scroll" href="#helloSection">
+              <router-link class="ct-btn-scroll ct-js-btn-scroll" to="#helloSection">
                 <img alt="Arrow Down Icon" src="https://www.solodev.com/assets/anchor/arrow-down.png">
-              </a>
+              </router-link>
             </div>
           </div>
         </div>
