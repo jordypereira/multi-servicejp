@@ -2,7 +2,7 @@
   <div class="home">
     <!-- MJ Main Banner Section -->
     <section class="header-section-area" id="homeSection">
-      <div class="header-area-bg parallax-window" style="background-image: url(img/home_achtergrond2_lichter2.jpg);">
+      <div class="header-area-bg parallax-window" style="background-image: url(img/home_achtergrond2_lichter2-min.jpg);">
         <div class="container">
           <div class="row">
             <div class="header-heading-area text-center">
@@ -109,7 +109,7 @@
       <div class="center-heading-section text-center">
         <h2>my services</h2>
       </div>
-      <div class="service-area-bg parallax-window" style="background-image: url(img/home_myService.jpg);">
+      <div class="service-area-bg parallax-window" style="background-image: url(img/home_myService-min.jpg);">
         <div class="container">
           <div class="row">
             <div class="col-md-6 col-sm-12">
@@ -189,7 +189,7 @@
     <!-- MJ Counter Section Start -->
     <section class="counter-section section-padding">
       <div id="my_counter"></div>
-      <div class="counter-bg parallax-window" style="background-image: url(img/home_counter.jpg);">
+      <div class="counter-bg parallax-window" style="background-image: url(img/home_counter-min.jpg);">
         <div class="container">
           <div class="row">
             <div class="counters text-center">

@@ -25,22 +25,27 @@
         <div class="row menu-area">
           <div class="col-xs-10 col-sm-7 col-md-6 col-lg-8">
             <div class="row">
-              <div class="col-xs-3 col-md-2">
+              <div class="col-xs-3 col-md-2 col-lg-2">
                 <!-- Logo -->
                 <div class="logo text-center" id="logo">
                   <a href="/"><img src="img/logo_jp.png" alt="Logo" /></a>
                 </div>
               </div>
-              <div class="col-lg-4">
+              <div class="col-xs-7 col-lg-5">
                 <!-- Logo -->
                 <div class="nummer" style="padding-top: 10px">
                   <h1>0498/72.85.76</h1>
                 </div>
               </div>
-              <div class="col-lg-5 social-list" style="padding-top: 10px">
-                <a href="https://www.facebook.com/multiservicejp/" target="_blank" v-if="$mq === 'lg'">
+              <div class="col-xs-3 col-lg-5 social-list" style="padding-top: 10px" v-if="$mq === 'lg'">
+                <a href="https://www.facebook.com/multiservicejp/" target="_blank">
                   Volg ons op:
                   <i class="fab fa-facebook-f"></i>acebook</a>
+              </div>
+              <div class="col-xs-1 social-list" style="padding-top: 10px" v-else>
+                <a href="https://www.facebook.com/multiservicejp/" target="_blank">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
               </div>
             </div>
           </div>
@@ -146,9 +151,12 @@ export default {
 #logo {
   img {
     margin-top: 5px;
-    max-width: 75px;
+    max-width: 50px;
+    @media (min-width: 490px) {
+      max-width: 65px;
+    }
     @media (min-width: 720px) {
-      max-width: 100px;
+      max-width: 75px;
     }
   }
 }

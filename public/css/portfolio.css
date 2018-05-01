@@ -37,11 +37,19 @@
   z-index: 1;
 }
 .prtfolio-heading-area h1 {
-  letter-spacing: 32px;
+  color: #fff;
+  font-size: 100px;
+  font-weight: 800;
+  text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
-  font-size: 130px;
-  margin: 0px;
-  text-indent: 32px;
+  padding-top: 5px;
+}
+.prtfolio-heading-area p {
+  color: #fff;
+  font-size: 36px;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: -30px;
 }
 
 /*--------------------------------------------------------------

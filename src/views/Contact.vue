@@ -5,7 +5,8 @@
         <div class="container">
           <div class="row">
             <div class="contact-heading-area text-center">
-              <h1 class="wow slideInDown" data-wow-delay=".1s">Multi-Service JP</h1>
+              <p>Vrijblijvend meer informatie gewenst</p>
+              <h1 class="wow slideInDown" data-wow-delay=".1s">Contacteer ons nu</h1>
             </div>
           </div>
         </div>

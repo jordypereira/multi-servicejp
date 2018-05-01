@@ -115,7 +115,7 @@
   // });
 
   $(function() {
-    if (window.innerWidth > 768) {
+    if (window.innerWidth > 500) {
       $('#nav-icon2.barger-menu-ico').addClass('open navIconHide');
       let menus = $('.menus');
       menus.toggleClass('addedAnimation');

@@ -1,96 +1,89 @@
 [{
-    "img": "dimi_carw-21.jpg",
-    "title": "Carwrapping Nissan",
-    "description": "Carwrapping in het zwart.",
-    "category": "Carwrapping",
-    "classes": ["grid-item--height1"],
-    "imagefolder": "Dimi-Carwrapping",
+    "img": "IMG_1438.jpg",
+    "title": "Schilderwerken Lint",
+    "description": "Schilderwerken Lint",
+    "category": "Schilderen",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "schilderwerken-lint",
     "images": [{
-        "img": "dimi_carw-1.jpg",
+        "img": "IMG_1376.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-2.jpg",
+        "img": "IMG_1377.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-3.jpg",
+        "img": "IMG_1379.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-4.jpg",
+        "img": "IMG_1438.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1428.jpg",
+    "title": "Tuinaanleg 250m² rolgazon",
+    "description": "",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinaanleg-250m²-rolgazon",
+    "images": [{
+        "img": "IMG_1407.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-5.jpg",
+        "img": "IMG_1409.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-6.jpg",
+        "img": "IMG_1411.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-7.jpg",
+        "img": "IMG_1413.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-8.jpg",
+        "img": "IMG_1415.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-9.jpg",
+        "img": "IMG_1417.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-10.jpg",
+        "img": "IMG_1419.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-11.jpg",
+        "img": "IMG_1421.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-12.jpg",
+        "img": "IMG_1424.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-13.jpg",
+        "img": "IMG_1426.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-14.jpg",
+        "img": "IMG_1428.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-15.jpg",
+        "img": "IMG_1430.jpg",
         "description": ""
       },
       {
-        "img": "dimi_carw-16.jpg",
-        "description": ""
-      },
-      {
-        "img": "dimi_carw-17.jpg",
-        "description": ""
-      },
-      {
-        "img": "dimi_carw-18.jpg",
-        "description": ""
-      },
-      {
-        "img": "dimi_carw-19.jpg",
-        "description": ""
-      },
-      {
-        "img": "dimi_carw-20.jpg",
-        "description": ""
-      },
-      {
-        "img": "dimi_carw-21.jpg",
-        "description": ""
-      },
-      {
-        "img": "dimi_carw-22.jpg",
+        "img": "IMG_1432.jpg",
         "description": ""
       }
     ]
@@ -123,6 +116,136 @@
       },
       {
         "img": "IMG_1400.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1384.jpg",
+    "title": "Tuinonderhoud",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height2", "grid-item-w2"
+    ],
+    "imagefolder": "tuinonderhoud-temse",
+    "images": [{
+        "img": "IMG_1382.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1383.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1384.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1386.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1190.jpg",
+    "title": "Tuinaanleg 65 Rode Beuk",
+    "description": "Tuinaanleg 65 Rode Beuk",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height2",
+      "grid-item-w2"
+    ],
+    "imagefolder": "tuinaaleg-65m-rode-beuk",
+    "images": [{
+        "img": "IMG_1092.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1132.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1142.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1143.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1144.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1146.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1185.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1186.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1188.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1189.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1190.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_1365.jpg",
+    "title": "Tuinonderhoud bomen snoeien met een hoogtewerker",
+    "description": "",
+    "category": "Tuinonderhoud",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "tuinonderhoud-bomen-snoeien-met-hoogtewerker",
+    "images": [{
+        "img": "IMG_1135.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1330.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1332.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1340.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1343.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1356.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1358.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1362.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_1365.jpg",
         "description": ""
       }
     ]
@@ -223,41 +346,6 @@
     ]
   },
   {
-    "img": "IMG_2068.jpg",
-    "title": "Schilderwerken Kontich",
-    "description": "Schilderwerken Kontich",
-    "category": "Schilderen",
-    "classes": [
-      "grid-item--height1"
-    ],
-    "imagefolder": "schilderwerken-kontich",
-    "images": [{
-        "img": "IMG_2068.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_2069.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_2071.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_2072.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_2073.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_2074.jpg",
-        "description": ""
-      }
-    ]
-  },
-  {
     "img": "IMG_0904.jpg",
     "title": "Schilderwerken Lier",
     "description": "Schilderwerken Lier",
@@ -309,171 +397,98 @@
     ]
   },
   {
-    "img": "IMG_1438.jpg",
-    "title": "Schilderwerken Lint",
-    "description": "Schilderwerken Lint",
-    "category": "Schilderen",
-    "classes": [
-      "grid-item--height1"
-    ],
-    "imagefolder": "schilderwerken-lint",
+    "img": "dimi_carw-21.jpg",
+    "title": "Carwrapping Nissan",
+    "description": "Carwrapping in het zwart.",
+    "category": "Carwrapping",
+    "classes": ["grid-item--height1"],
+    "imagefolder": "Dimi-Carwrapping",
     "images": [{
-        "img": "IMG_1376.jpg",
+        "img": "dimi_carw-1.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1377.jpg",
+        "img": "dimi_carw-2.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1379.jpg",
+        "img": "dimi_carw-3.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1438.jpg",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "img": "IMG_1190.jpg",
-    "title": "Tuinaanleg 65 Rode Beuk",
-    "description": "Tuinaanleg 65 Rode Beuk",
-    "category": "Tuinaanleg",
-    "classes": [
-      "grid-item--height2",
-      "grid-item-w2"
-    ],
-    "imagefolder": "tuinaaleg-65m-rode-beuk",
-    "images": [{
-        "img": "IMG_1092.jpg",
+        "img": "dimi_carw-4.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1132.jpg",
+        "img": "dimi_carw-5.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1142.jpg",
+        "img": "dimi_carw-6.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1143.jpg",
+        "img": "dimi_carw-7.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1144.jpg",
+        "img": "dimi_carw-8.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1146.jpg",
+        "img": "dimi_carw-9.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1185.jpg",
+        "img": "dimi_carw-10.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1186.jpg",
+        "img": "dimi_carw-11.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1188.jpg",
+        "img": "dimi_carw-12.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1189.jpg",
+        "img": "dimi_carw-13.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1190.jpg",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "img": "IMG_2304.jpg",
-    "title": "Tuinaanleg aanplanting beuk na 1jaar",
-    "description": "",
-    "category": "Tuinaanleg",
-    "classes": [
-      "grid-item--height2",
-      "grid-item-w2"
-    ],
-    "imagefolder": "tuinaanleg - aanplanting beuk na 1jaar",
-    "images": [{
-        "img": "IMG_2300.jpg",
+        "img": "dimi_carw-14.jpg",
         "description": ""
       },
       {
-        "img": "IMG_2304.jpg",
+        "img": "dimi_carw-15.jpg",
         "description": ""
       },
       {
-        "img": "IMG_2306.jpg",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "img": "IMG_1428.jpg",
-    "title": "Tuinaanleg 250m² rolgazon",
-    "description": "",
-    "category": "Tuinaanleg",
-    "classes": [
-      "grid-item--height2", "grid-item-w2"
-    ],
-    "imagefolder": "tuinaanleg-250m²-rolgazon",
-    "images": [{
-        "img": "IMG_1407.jpg",
+        "img": "dimi_carw-16.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1409.jpg",
+        "img": "dimi_carw-17.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1411.jpg",
+        "img": "dimi_carw-18.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1413.jpg",
+        "img": "dimi_carw-19.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1415.jpg",
+        "img": "dimi_carw-20.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1417.jpg",
+        "img": "dimi_carw-21.jpg",
         "description": ""
       },
       {
-        "img": "IMG_1419.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1421.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1424.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1426.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1428.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1430.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1432.jpg",
+        "img": "dimi_carw-22.jpg",
         "description": ""
       }
     ]
@@ -597,6 +612,65 @@
     ]
   },
   {
+    "img": "IMG_2304.jpg",
+    "title": "Tuinaanleg aanplanting beuk na 1jaar",
+    "description": "",
+    "category": "Tuinaanleg",
+    "classes": [
+      "grid-item--height2",
+      "grid-item-w2"
+    ],
+    "imagefolder": "tuinaanleg - aanplanting beuk na 1jaar",
+    "images": [{
+        "img": "IMG_2300.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2304.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2306.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "img": "IMG_2068.jpg",
+    "title": "Schilderwerken Kontich",
+    "description": "Schilderwerken Kontich",
+    "category": "Schilderen",
+    "classes": [
+      "grid-item--height1"
+    ],
+    "imagefolder": "schilderwerken-kontich",
+    "images": [{
+        "img": "IMG_2068.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2069.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2071.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2072.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2073.jpg",
+        "description": ""
+      },
+      {
+        "img": "IMG_2074.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
     "img": "pos1_na.JPG",
     "title": "Tuinaanleg Gazon Keerbergen",
     "description": "",
@@ -619,53 +693,6 @@
       },
       {
         "img": "pos1_na.JPG",
-        "description": ""
-      }
-    ]
-  },
-  {
-    "img": "IMG_1365.jpg",
-    "title": "Tuinonderhoud bomen snoeien met een hoogtewerker",
-    "description": "",
-    "category": "Tuinonderhoud",
-    "classes": [
-      "grid-item--height1"
-    ],
-    "imagefolder": "tuinonderhoud-bomen-snoeien-met-hoogtewerker",
-    "images": [{
-        "img": "IMG_1135.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1330.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1332.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1340.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1343.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1356.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1358.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1362.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1365.jpg",
         "description": ""
       }
     ]
@@ -769,33 +796,5 @@
         "description": ""
       }
     ]
-  },
-  {
-    "img": "IMG_1384.jpg",
-    "title": "Tuinonderhoud",
-    "description": "",
-    "category": "Tuinonderhoud",
-    "classes": [
-      "grid-item--height2", "grid-item-w2"
-    ],
-    "imagefolder": "tuinonderhoud-temse",
-    "images": [{
-        "img": "IMG_1382.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1383.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1384.jpg",
-        "description": ""
-      },
-      {
-        "img": "IMG_1386.jpg",
-        "description": ""
-      }
-    ]
   }
-
 ]

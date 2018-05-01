@@ -5,7 +5,8 @@
         <div class="container">
           <div class="row">
             <div class="hello-heading-area text-center">
-              <h1 class="wow slideInDown" data-wow-delay=".1s">Jonathan Put</h1>
+              <p>Nieuwsgierig naar mijn achtergrond</p>
+              <h1 class="wow slideInDown" data-wow-delay=".1s">Lees het hier</h1>
             </div>
           </div>
         </div>
@@ -22,7 +23,7 @@
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="hello-heading">
-              <h2>Hallo.</h2>
+              <h2>Hello.</h2>
             </div>
             <div class="hello-txt">
               <h3>Mijn naam is Jonathan Put.</h3>

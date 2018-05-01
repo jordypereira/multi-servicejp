@@ -5,7 +5,8 @@
         <div class="container">
           <div class="row">
             <div class="prtfolio-heading-area text-center">
-              <h1 class="wow slideInDown" data-wow-delay=".1s">PROJECTEN</h1>
+              <p>klik hieronder op het gewenste onderdeel</p>
+              <h1 class="wow slideInDown" data-wow-delay=".1s">Bekijk elk project</h1>
             </div>
           </div>
         </div>

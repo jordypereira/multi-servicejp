@@ -30,10 +30,10 @@
     margin-right: 0px;
   }
   .header-heading-area h1 {
-    font-size: 3em;
+    font-size: 4.5em;
   }
   .header-heading-area p {
-    font-size: 1.8em;
+    font-size: 2.5em;
   }
   .header-btn.resume-btns,
   .read-more.resume-btns-one {
@@ -86,7 +86,7 @@
   }
   .social-list a,
   .nummer h1 {
-    font-size: 16px;
+    font-size: 22px;
   }
   .grid-item--height2 {
     height: 250px;
@@ -137,10 +137,16 @@
     font-size: 14px;
     padding: 10px 15px;
   }
-  .header-heading-area h1 {
+  .header-heading-area h1,
+  .hello-heading-area h1,
+  .contact-heading-area h1,
+  .prtfolio-heading-area h1 {
     font-size: 3em;
   }
-  .header-heading-area p {
+  .header-heading-area p,
+  .hello-heading-area p,
+  .contact-heading-area p,
+  .prtfolio-heading-area p {
     font-size: 2em;
     line-height: 1.1em;
   }
@@ -241,14 +247,6 @@
   }
   .contact-form {
     margin-top: 50px;
-  }
-  .blog-heading-area h1,
-  .contact-heading-area h1,
-  .hello-heading-area h1,
-  .prtfolio-heading-area h1 {
-    letter-spacing: 10px;
-    font-size: 2.5em;
-    text-indent: 10px;
   }
   .blog-heading-section h2 {
     font-size: 2em;
@@ -351,5 +349,32 @@
 @media only screen and (max-width: 479px) {
   .e-and-e-txt {
     width: 85%;
+  }
+  .header-heading-area h1,
+  .hello-heading-area h1,
+  .contact-heading-area h1,
+  .prtfolio-heading-area h1 {
+    font-size: 2.5em;
+  }
+  .header-heading-area p,
+  .hello-heading-area p,
+  .contact-heading-area p,
+  .prtfolio-heading-area p {
+    font-size: 1.7em;
+  }
+}
+/*      Small Mobile Layout: 480px. */
+@media only screen and (max-width: 350px) {
+  .header-heading-area h1,
+  .hello-heading-area h1,
+  .contact-heading-area h1,
+  .prtfolio-heading-area h1 {
+    font-size: 2.3em;
+  }
+  .header-heading-area p,
+  .hello-heading-area p,
+  .contact-heading-area p,
+  .prtfolio-heading-area p {
+    font-size: 1.3em;
   }
 }
