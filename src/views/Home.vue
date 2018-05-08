@@ -270,4 +270,10 @@
     padding-top: 5px;
   }
 }
+
+@media screen and (min-width: 720px) {
+  .personal-info-details {
+    padding-top: 53px;
+  }
+}
 </style>
