@@ -32,10 +32,10 @@
         <div class="row">
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="heading-section">
-              <h2>hello</h2>
+              <h2>Hallo</h2>
             </div>
             <div class="hello-details-section">
-              <h2>I’m Jonathan Put</h2>
+              <h2>Mijn naam is Jonathan Put.</h2>
               <p>Oprichter en eigenaar van Multi-Service JP. In 2016 startte ik mijn activiteiten op zelfstandige basis tijdens mijn studies. Na een vlot gesprek verzorgen wij al uw projecten met de hoogste precisie. Efficiëntie, creativiteit en nauwkeurigheid staan bij ons centraal. Met mijn gemotiveerd team gaan we elke uitdaging aan:
                 <ul>
                   <li>

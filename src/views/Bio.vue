@@ -23,7 +23,7 @@
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="hello-heading">
-              <h2>Hello.</h2>
+              <h2>Hallo.</h2>
             </div>
             <div class="hello-txt">
               <h3>Mijn naam is Jonathan Put.</h3>

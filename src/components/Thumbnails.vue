@@ -47,14 +47,12 @@ $break-large: 980px;
       margin: 0 10px;
       background-size: cover;
       background-position: center;
-      filter: opacity(0.5);
       &:hover {
         cursor: pointer;
-        filter: opacity(0.8);
       }
     }
     .current {
-      filter: none;
+      border: 3px solid #74dbef;
     }
   }
 }
