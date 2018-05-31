@@ -250,8 +250,15 @@
               <div class="form-group">
                 <textarea class="form-control" id="form-massage-px" rows="5" name="pixiefy_message" placeholder="Type Your Message:"></textarea>
               </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" v-model="privacycheck">
+                <label class="form-check-label" for="defaultCheck1">
+                  Ik heb de
+                  <a href="./img/privacy_statement_multi-servicejp.pdf" class="privacy-link">privacy verklaring</a> gelezen en goedgekeurd
+                </label>
+              </div>
               <div>
-                <button type="submit" class="submit_btn">
+                <button type="submit" class="submit_btn" :disabled="!privacycheck">
                   <i class="fa fa-send"></i> Send</button>
               </div>
             </form>
@@ -263,12 +270,29 @@
   </div>
 </template>
 
+<script>
+export default {
+  data() {
+    return {
+      privacycheck: false,
+    };
+  },
+};
+</script>
+
 <style lang="scss" scoped>
 .header-heading-area {
   font-size: 1.4rem;
   h1 {
     padding-top: 5px;
   }
+}
+.form-check-label {
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
+.privacy-link {
+  color: #57b4b4;
 }
 
 @media screen and (min-width: 720px) {
