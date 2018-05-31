@@ -72,6 +72,13 @@
                 <div class="form-group">
                   <textarea class="form-control" id="form-massage-px" rows="5" name="message" placeholder="Type Your Message:"></textarea>
                 </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+                  <label class="form-check-label" for="defaultCheck1">
+                    Ik heb de
+                    <a href="./img/privacy_statement_multi-servicejp.pdf" class="privacy-link">privacy verklaring</a> gelezen en goedgekeurd
+                  </label>
+                </div>
                 <div>
                   <button type="submit" class="submit_btn">
                     <i class="fa fa-send"></i> Send</button>
@@ -86,5 +93,10 @@
 </template>
 
 <style scoped>
-
+.form-check-label {
+  margin-left: 15px;
+}
+.privacy-link {
+  color: #57b4b4;
+}
 </style>
