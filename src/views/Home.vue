@@ -254,7 +254,7 @@
                 <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" v-model="privacycheck">
                 <label class="form-check-label" for="defaultCheck1">
                   Ik heb de
-                  <a href="./img/privacy_statement_multi-servicejp.pdf" class="privacy-link">privacy verklaring</a> gelezen en goedgekeurd
+                  <a href="./img/privacy_statement_multi-servicejp.pdf" class="privacy-link">privacy verklaring</a> gelezen en goedgekeurd*
                 </label>
               </div>
               <div>
