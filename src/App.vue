@@ -223,6 +223,13 @@ li {
   -webkit-tap-highlight-color: transparent;
   -moz-outline-: none;
 }
+a {
+  color: #fff;
+  -webkit-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+  outline: 0;
+}
 @media (min-width: 1080px) {
   a,
   a:hover,
