@@ -10,8 +10,8 @@
               <h1>Multi-Service JP</h1>
 
               <div class="header-btn wow bounceIn">
-                <a href="#contactSection" class="header-btn resume-btns">
-                  <i class="fa fa-send"></i> Contact Me</a>
+                <router-link to="#contactSection" class="header-btn resume-btns">
+                  <i class="fa fa-send"></i> Contact Me</router-link>
               </div>
             </div>
 
@@ -237,31 +237,7 @@
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="contact-form">
             <!-- Form Start -->
-            <form id="emailform" action="php/contact.php" method="POST">
-              <div class="form-group">
-                <input type="text" class="form-control" id="form-name-px" name="pixiefy_name" placeholder="Your Name:">
-              </div>
-              <div class="form-group">
-                <input type="email" class="form-control" id="form-email-px" name="pixiefy_email" placeholder="Your Email:">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" id="form-subject-px" name="pixiefy_subject" placeholder="Your Subject:">
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" id="form-massage-px" rows="5" name="pixiefy_message" placeholder="Type Your Message:"></textarea>
-              </div>
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" v-model="privacycheck">
-                <label class="form-check-label" for="defaultCheck1">
-                  Ik heb de
-                  <a href="./img/privacy_statement_multi-servicejp.pdf" class="privacy-link">privacy verklaring</a> gelezen en goedgekeurd*
-                </label>
-              </div>
-              <div>
-                <button type="submit" class="submit_btn" :disabled="!privacycheck">
-                  <i class="fa fa-send"></i> Send</button>
-              </div>
-            </form>
+            <contact-form></contact-form>
           </div>
         </div>
 
@@ -271,11 +247,10 @@
 </template>
 
 <script>
+import ContactForm from '@/components/ContactForm';
 export default {
-  data() {
-    return {
-      privacycheck: false,
-    };
+  components: {
+    ContactForm,
   },
 };
 </script>
